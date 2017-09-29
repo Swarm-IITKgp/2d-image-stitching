@@ -1,5 +1,5 @@
 # ImageStitching
-Implementation of image stitching in opencv for Swarm robotics.
+Implementation of image stitching in opencv for Swarm robotics. 2 test cases have been included.
 
 ## Dependencies
 opencv 2.4.8
